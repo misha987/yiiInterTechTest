@@ -1,0 +1,48 @@
+Array
+(
+    [_csrf] => cANHaTAvbIcGX8ql3bxtEZR9ntKQTy5mwhscI1VTcrUGaHECUlVf1UI7-JWe7SVwuQ_osP14A1LvclJXPhgm-w==
+    [dogs] => Array
+        (
+            [1] => Array
+                (
+                    [id] => 1
+                    [owner] => qweqwe
+                    [name] => qeqweq
+                    [age] => 213
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [owner] => qweqwe
+                    [name] => qeqweq
+                    [age] => 213
+                )
+
+            [3] => Array
+                (
+                    [id] => 3
+                    [owner] => rwet
+                    [name] => 
+                    [age] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 4
+                    [owner] => 
+                    [name] => fdgdfgdf
+                    [age] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 5
+                    [owner] => gfd
+                    [name] => 
+                    [age] => 
+                )
+
+        )
+
+)

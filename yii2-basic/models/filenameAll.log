@@ -1,0 +1,88 @@
+Array
+(
+    [_csrf] => 2RGlMPxIjmXfvjXyddr57MlUrFXjbHswU_BIuVDyGXuvepNbnjK9N5vaB8I2i7GN5CbaN45bVgR-mQbNO7lNNQ==
+    [dogs] => Array
+        (
+            [1] => Array
+                (
+                    [id] => 1
+                    [owner] => qweqwe
+                    [name] => qeqweq
+                    [age] => 213
+                )
+
+            [29] => Array
+                (
+                    [id] => 29
+                    [owner] => qweqwe
+                    [name] => qeqweqfddgsdg
+                    [age] => 213
+                )
+
+            [30] => Array
+                (
+                    [id] => 30
+                    [owner] => qweqwe
+                    [name] => qeqweq43534534
+                    [age] => 213
+                )
+
+            [31] => Array
+                (
+                    [id] => 31
+                    [owner] => qweqwefdfg344325
+                    [name] => qeqweq32124
+                    [age] => 213
+                )
+
+            [32] => Array
+                (
+                    [id] => 32
+                    [owner] => treyetywqereqr25
+                    [name] => ey453645
+                    [age] => 25532
+                )
+
+            [33] => Array
+                (
+                    [id] => 33
+                    [owner] => 34234
+                    [name] => werwerwr
+                    [age] => 
+                )
+
+            [34] => Array
+                (
+                    [id] => 34
+                    [owner] => dfsgfd
+                    [name] => gfsddsg
+                    [age] => 424534
+                )
+
+            [35] => Array
+                (
+                    [id] => 35
+                    [owner] => gdsdg
+                    [name] => wtrt
+                    [age] => 32535
+                )
+
+            [36] => Array
+                (
+                    [id] => 36
+                    [owner] => dgg
+                    [name] => dsfgsd
+                    [age] => 2432345
+                )
+
+            [37] => Array
+                (
+                    [id] => 37
+                    [owner] => fsgsfg
+                    [name] => ertwe
+                    [age] => 43524
+                )
+
+        )
+
+)

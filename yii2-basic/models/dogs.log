@@ -1,0 +1,89 @@
+Array
+(
+    [0] => app\models\Dogs Object
+        (
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 50
+                    [owner_name] => fswerwr
+                    [name] => sg
+                    [age] => 234234
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 50
+                    [owner_name] => fswerwr
+                    [name] => sg
+                    [age] => 234234
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [1] => app\models\Dogs Object
+        (
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 52
+                    [owner_name] => eqeqwe
+                    [name] => rewrw12312
+                    [age] => 12321
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 52
+                    [owner_name] => eqeqwe
+                    [name] => rewrw12312
+                    [age] => 12321
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+)
